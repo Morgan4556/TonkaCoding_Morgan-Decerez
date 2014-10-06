@@ -1,3 +1,3 @@
-for(morgan === 'idiot'; morgan = 'not an idiot'){
-  console.log('Morgan is an idiot!');
-};
+var cole = 'idiot^2';
+
+console.log('LOL...GET REKT M8');
